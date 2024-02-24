@@ -1,0 +1,13 @@
+STEPS TO GET THE OPEN WEATHER API KEY :
+STEP 01: Open the OpenWeather website.
+(Link: https://home.openweathermap.org)
+
+STEP 02: Click the “Sign in” button.
+
+STEP 03: Create an Account in the portal.
+
+STEP 04: Click on your username, and a dropdown menu appears.
+
+Click the “My API” option.
+
+STEP 05: Select the key and copy it.
